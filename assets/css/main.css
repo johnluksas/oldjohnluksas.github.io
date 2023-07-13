@@ -1781,6 +1781,16 @@ input, select, textarea {
 			margin: 0 2em 2em 0;
 		}
 
+		img.rounded-corners {
+			border-radius: 2px;
+		}
+
+		img.rounded-corners-avatar48 {
+			border-radius: 20px;
+			width: 48px;
+			height: 48px;
+		}
+
 		.image.centered {
 			display: block;
 			margin: 0 0 2em 0;
